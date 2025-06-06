@@ -21,9 +21,9 @@
     <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="0" y1="520" x2="1340" y2="520"/>
     <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="0" y1="300" x2="1340" y2="300"/>
     <g>
-      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 201.887 380 L 289.437,380 C 301.526,380 311.325,388.954 311.325,400 C 311.325,411.046 301.526,420 289.437,420 L 201.887,420 C 189.799,420 180,411.046 180,400 C 180,388.954 189.799,380 201.887,380z"/>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 180.412 380 L 310.912,380 C 328.931,380 343.537,388.954 343.537,400 C 343.537,411.046 328.931,420 310.912,420 L 180.412,420 C 162.394,420 147.787,411.046 147.787,400 C 147.787,388.954 162.394,380 180.412,380z"/>
       <text font-size="16.9333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="245.662" y="405.135">
-        <tspan x="245.662" y="405.135">Send #vc</tspan>
+        <tspan x="245.662" y="405.135">Send #VC</tspan>
       </text>
     </g>
     <g>
@@ -57,7 +57,7 @@
     <line style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #000000" x1="1340" y1="820" x2="0" y2="820"/>
     <g>
       <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="145.751" y1="80.9595" x2="236.189" y2="369.749"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="238.431,376.907 230.671,368.858 236.189,369.749 240.214,365.869 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="238.43,376.907 230.67,368.858 236.189,369.749 240.213,365.869 "/>
     </g>
     <g>
       <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="256.281" y1="378.998" x2="331.772" y2="229.691"/>

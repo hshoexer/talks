@@ -45,9 +45,9 @@
     <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="0" y1="520" x2="1340" y2="520"/>
     <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="0" y1="300" x2="1340" y2="300"/>
     <g>
-      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 201.887 380 L 289.437,380 C 301.526,380 311.325,388.954 311.325,400 C 311.325,411.046 301.526,420 289.437,420 L 201.887,420 C 189.799,420 180,411.046 180,400 C 180,388.954 189.799,380 201.887,380z"/>
-      <text font-size="16.9333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="245.662" y="405.135">
-        <tspan x="245.662" y="405.135">Send #vc</tspan>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 199.838 380 L 291.488,380 C 304.142,380 314.4,388.954 314.4,400 C 314.4,411.046 304.142,420 291.488,420 L 199.838,420 C 187.183,420 176.925,411.046 176.925,400 C 176.925,388.954 187.183,380 199.838,380z"/>
+      <text font-size="16.9333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="245.663" y="405.135">
+        <tspan x="245.663" y="405.135">Send #VC</tspan>
       </text>
     </g>
     <g>
