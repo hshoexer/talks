@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="69cm" height="41cm" viewBox="-2 0 1362 820" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs/>
+  <g id="Background">
+    <text font-size="16.9333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="20" y="405.862">
+      <tspan x="20" y="405.862">CPU</tspan>
+    </text>
+    <text font-size="16.9333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="20" y="665.862">
+      <tspan x="20" y="665.862">VMM</tspan>
+    </text>
+    <text font-size="16.9333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="20" y="145.862">
+      <tspan x="20" y="145.862">Guest</tspan>
+    </text>
+    <g>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 113.062 40 L 165.312,40 C 172.527,40 178.375,48.9543 178.375,60 C 178.375,71.0457 172.527,80 165.312,80 L 113.062,80 C 105.848,80 100,71.0457 100,60 C 100,48.9543 105.848,40 113.062,40z"/>
+      <text font-size="16.9333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="139.188" y="65.1346">
+        <tspan x="139.188" y="65.1346">cpuid</tspan>
+      </text>
+    </g>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="0" y1="520" x2="1340" y2="520"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="0" y1="300" x2="1340" y2="300"/>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.02; stroke: #000000" x="1340" y="520" width="20" height="300" rx="0" ry="0"/>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.02; stroke: #000000" x="1340" y="0" width="20" height="300" rx="0" ry="0"/>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.02; stroke: #000000" x="1340" y="300" width="20" height="220" rx="0" ry="0"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #000000" x1="1340" y1="820" x2="0" y2="820"/>
+  </g>
+</svg>

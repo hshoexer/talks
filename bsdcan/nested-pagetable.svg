@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="71cm" height="39cm" viewBox="19 19 1402 766" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Background">
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="614" y1="100" x2="614.245" y2="130.264"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="614.306,137.764 609.225,127.805 614.245,130.264 619.225,127.724 "/>
+    </g>
+    <g>
+      <rect style="fill: #ababab; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1000" y="740" width="420" height="43.1667" rx="0" ry="0"/>
+      <text font-size="16.9333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1210" y="766.718">
+        <tspan x="1210" y="766.718">Host Physical Address</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #cc0000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="920" y="740" width="68.65" height="43.1667" rx="0" ry="0"/>
+      <text font-size="16.9333" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="954.325" y="766.718">
+        <tspan x="954.325" y="766.718">C-Bit</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ababab; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="660" y="140" width="500" height="43.1667" rx="0" ry="0"/>
+      <text font-size="16.9333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="910" y="166.718">
+        <tspan x="910" y="166.718">Guest Physical Address</tspan>
+      </text>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="1160,460 1210,460 1210,730.264 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="1210,737.764 1205,727.764 1210,730.264 1215,727.764 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="910" y1="183.167" x2="910" y2="230.264"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="910,237.764 905,227.764 910,230.264 915,227.764 "/>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="614.324,183.167 614.324,761.584 910.264,761.584 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="917.764,761.584 907.764,766.584 910.264,761.584 907.764,756.584 "/>
+    </g>
+    <g>
+      <rect style="fill: #cc0000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="580" y="140" width="68.65" height="43.1667" rx="0" ry="0"/>
+      <text font-size="16.9333" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="614.325" y="166.718">
+        <tspan x="614.325" y="166.718">C-Bit</tspan>
+      </text>
+      <rect style="fill: #c88d8d; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="20" y="20" width="500" height="440" rx="0" ry="0"/>
+      <text font-size="16.8204" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="270" y="245.1">
+        <tspan x="270" y="245.1"></tspan>
+      </text>
+      <rect style="fill: #cc0000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" x="60" y="78.4166" width="420" height="43.1667" rx="0" ry="0"/>
+      <text font-size="16.9333" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="270" y="105.134">
+        <tspan x="270" y="105.134">Virtual Address</tspan>
+      </text>
+      <rect style="fill: #c40000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" x="100" y="160" width="40" height="260" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="120" y="293.881">
+        <tspan x="120" y="293.881"></tspan>
+      </text>
+      <rect style="fill: #d40000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" x="200" y="160" width="40" height="260" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="220" y="293.881">
+        <tspan x="220" y="293.881"></tspan>
+      </text>
+      <rect style="fill: #e40000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" x="300" y="160" width="40" height="260" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="320" y="293.881">
+        <tspan x="320" y="293.881"></tspan>
+      </text>
+      <rect style="fill: #f40000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" x="400" y="160" width="40" height="260" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="420" y="293.881">
+        <tspan x="420" y="293.881"></tspan>
+      </text>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" points="80,120 80,141 80,141 80,225 90.2639,225 "/>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" fill-rule="evenodd" points="97.7639,225 87.7639,230 90.2639,225 87.7639,220 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" points="140,225 170,225 170,420 190.264,420 "/>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" fill-rule="evenodd" points="197.764,420 187.764,425 190.264,420 187.764,415 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" points="240,320 270,320 270,420 290.264,420 "/>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" fill-rule="evenodd" points="297.764,420 287.764,425 290.264,420 287.764,415 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" points="340,200 370,200 370,420 390.264,420 "/>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" fill-rule="evenodd" points="397.764,420 387.764,425 390.264,420 387.764,415 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" points="180,120 180,320 190.264,320 "/>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" fill-rule="evenodd" points="197.764,320 187.764,325 190.264,320 187.764,315 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" points="270,121.583 270,200 290.264,200 "/>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" fill-rule="evenodd" points="297.764,200 287.764,205 290.264,200 287.764,195 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" points="380,120 380,300 390.264,300 "/>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" fill-rule="evenodd" points="397.764,300 387.764,305 390.264,300 387.764,295 "/>
+      <text font-size="16.9333" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="270" y="55.8622">
+        <tspan x="270" y="55.8622">Guest Page Tables</tspan>
+      </text>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="520,100 520,100 910,100 910,130.264 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="910,137.764 905,127.764 910,130.264 915,127.764 "/>
+    </g>
+    <g>
+      <rect style="fill: #cccccc; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="660" y="240" width="500" height="440" rx="0" ry="0"/>
+      <text font-size="16.8204" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="669" y="465.1">
+        <tspan x="669" y="465.1"></tspan>
+      </text>
+      <rect style="fill: #ababab; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="700" y="298.416" width="420" height="43.1667" rx="0" ry="0"/>
+      <text font-size="16.9333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="910" y="325.134">
+        <tspan x="910" y="325.134">Guest Physical Address</tspan>
+      </text>
+      <rect style="fill: #4c4c4c; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="740" y="380" width="40" height="260" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="760" y="513.881">
+        <tspan x="760" y="513.881"></tspan>
+      </text>
+      <rect style="fill: #595959; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="840" y="380" width="40" height="260" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="860" y="513.881">
+        <tspan x="860" y="513.881"></tspan>
+      </text>
+      <rect style="fill: #666666; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="940" y="380" width="40" height="260" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="960" y="513.881">
+        <tspan x="960" y="513.881"></tspan>
+      </text>
+      <rect style="fill: #808080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1040" y="380" width="40" height="260" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1060" y="513.881">
+        <tspan x="1060" y="513.881"></tspan>
+      </text>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="720,340 720,361 720,361 720,560 730.264,560 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="737.764,560 727.764,565 730.264,560 727.764,555 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="780,560 810,560 810,640 830.264,640 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="837.764,640 827.764,645 830.264,640 827.764,635 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="880,440 900,440 900,640 930.264,640 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="937.764,640 927.764,645 930.264,640 927.764,635 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="980,540 1010,540 1010,640 1030.26,640 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="1037.76,640 1027.76,645 1030.26,640 1027.76,635 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="820,340 820,340 820,440 830.264,440 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="837.764,440 827.764,445 830.264,440 827.764,435 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="910,341.582 910,540 930.264,540 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="937.764,540 927.764,545 930.264,540 927.764,535 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="1020,340 1020,440 1030.26,440 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="1037.76,440 1027.76,445 1030.26,440 1027.76,435 "/>
+      <text font-size="16.9333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="910" y="275.862">
+        <tspan x="910" y="275.862">Nested Page Tables</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

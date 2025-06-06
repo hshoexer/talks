@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="69cm" height="41cm" viewBox="-2 0 1362 820" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs/>
+  <g id="Background">
+    <text font-size="16.9333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="20" y="405.862">
+      <tspan x="20" y="405.862">CPU</tspan>
+    </text>
+    <text font-size="16.9333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="20" y="665.862">
+      <tspan x="20" y="665.862">VMM</tspan>
+    </text>
+    <text font-size="16.9333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="20" y="145.862">
+      <tspan x="20" y="145.862">Guest</tspan>
+    </text>
+    <g>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 120.362 40 L 201.813,40 C 213.058,40 222.175,48.9543 222.175,60 C 222.175,71.0457 213.058,80 201.813,80 L 120.362,80 C 109.117,80 100,71.0457 100,60 C 100,48.9543 109.117,40 120.362,40z"/>
+      <text font-size="16.9333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="161.088" y="65.1346">
+        <tspan x="161.088" y="65.1346">pv_cpuid</tspan>
+      </text>
+    </g>
+    <g>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 245.838 540 L 406.438,540 C 428.612,540 446.588,548.954 446.588,560 C 446.588,571.046 428.612,580 406.438,580 L 245.838,580 C 223.664,580 205.688,571.046 205.688,560 C 205.688,548.954 223.664,540 245.838,540z"/>
+      <text font-size="16.9333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="326.138" y="565.135">
+        <tspan x="326.138" y="565.135">svm_handle_exit()</tspan>
+      </text>
+    </g>
+    <g>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 711.613 540 L 875.513,540 C 898.143,540 916.488,548.954 916.488,560 C 916.488,571.046 898.143,580 875.513,580 L 711.613,580 C 688.983,580 670.638,571.046 670.638,560 C 670.638,548.954 688.983,540 711.613,540z"/>
+      <text font-size="16.9333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="793.563" y="565.135">
+        <tspan x="793.563" y="565.135">svm_enter_guest()</tspan>
+      </text>
+    </g>
+    <g>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 466.963 760 L 650.063,760 C 675.344,760 695.838,768.954 695.838,780 C 695.838,791.046 675.344,800 650.063,800 L 466.963,800 C 441.682,800 421.188,791.046 421.188,780 C 421.188,768.954 441.682,760 466.963,760z"/>
+      <text font-size="16.9333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="558.513" y="785.135">
+        <tspan x="558.513" y="785.135">vmm_handle_cpuid()</tspan>
+      </text>
+    </g>
+    <g>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 932.325 40 L 1061.62,40 C 1079.48,40 1093.95,48.9543 1093.95,60 C 1093.95,71.0457 1079.48,80 1061.62,80 L 932.325,80 C 914.472,80 900,71.0457 900,60 C 900,48.9543 914.472,40 932.325,40z"/>
+      <text font-size="16.9333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="996.975" y="65.1346">
+        <tspan x="996.975" y="65.1346">pv_cpuid cont.</tspan>
+      </text>
+    </g>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="0" y1="520" x2="1340" y2="520"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="0" y1="300" x2="1340" y2="300"/>
+    <g>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 472.938 640 L 644.287,640 C 667.946,640 687.125,648.954 687.125,660 C 687.125,671.046 667.946,680 644.287,680 L 472.938,680 C 449.279,680 430.1,671.046 430.1,660 C 430.1,648.954 449.279,640 472.938,640z"/>
+      <text font-size="16.9333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="558.612" y="665.135">
+        <tspan x="558.612" y="665.135">svm_handle_gexit()</tspan>
+      </text>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="168.305" y1="80.9912" x2="322.972" y2="530.793"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="325.411,537.885 317.431,530.055 322.972,530.793 326.887,526.803 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="374.963" y1="581.002" x2="500.844" y2="635.151"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="507.734,638.114 496.572,638.756 500.844,635.151 500.523,629.57 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="558.582" y1="690.738" x2="558.522" y2="750.264"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="558.589,683.238 563.579,693.243 558.582,690.738 553.579,693.233 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="558.514,757.764 553.524,747.759 558.522,750.264 563.524,747.769 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="607.957" y1="638.998" x2="735.26" y2="584.815"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="742.161,581.878 734.918,590.395 735.26,584.815 731.001,581.194 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="793.562" y1="540" x2="984.281" y2="89.9556"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="987.207,83.05 987.909,94.2083 984.281,89.9556 978.701,90.3065 "/>
+    </g>
+    <text font-size="14.1111" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="300" y="404.885">
+      <tspan x="300" y="404.885">SVM_EXIT_VMGEXIT</tspan>
+    </text>
+    <text font-size="14.1111" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="580" y="724.885">
+      <tspan x="580" y="724.885">SVM_EXIT_CPUID</tspan>
+    </text>
+    <g transform="matrix(0.3,0,0,0.3,916,202)">
+      <rect style="fill: #faffa0; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="560" y="1260" width="460" height="540" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="790" y="1533.88">
+        <tspan x="790" y="1533.88"></tspan>
+      </text>
+      <g>
+        <rect style="fill: #cad162; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="580" y="1340" width="420" height="440" rx="0" ry="0"/>
+        <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="790" y="1563.88">
+          <tspan x="790" y="1563.88"></tspan>
+        </text>
+      </g>
+      <rect style="fill: #faffa0; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="600" y="1420" width="380" height="40" rx="0" ry="0"/>
+      <rect style="fill: #faffa0; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="600" y="1720" width="380" height="40" rx="0" ry="0"/>
+      <rect style="fill: #faffa0; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="600" y="1360" width="380" height="40" rx="0" ry="0"/>
+      <rect style="fill: #faffa0; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="600" y="1660" width="380" height="40" rx="0" ry="0"/>
+      <rect style="fill: #faffa0; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="600" y="1600" width="380" height="40" rx="0" ry="0"/>
+      <rect style="fill: #faffa0; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="600" y="1540" width="380" height="40" rx="0" ry="0"/>
+      <rect style="fill: #faffa0; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="600" y="1480" width="380" height="40" rx="0" ry="0"/>
+      <text font-size="135.467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="790" y="1576.9">
+        <tspan x="790" y="1576.9">VCPU</tspan>
+      </text>
+    </g>
+    <g transform="matrix(0.3,0,0,0.3,321.612,-452)">
+      <rect style="fill: #e4f3ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="560" y="1840" width="460" height="360" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="790" y="2023.88">
+        <tspan x="790" y="2023.88"></tspan>
+      </text>
+      <g>
+        <rect style="fill: #c9dcec; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="580" y="1920" width="420" height="260" rx="0" ry="0"/>
+        <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="790" y="2053.88">
+          <tspan x="790" y="2053.88"></tspan>
+        </text>
+      </g>
+      <rect style="fill: #e4f3ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="600" y="1940" width="380" height="40" rx="0" ry="0"/>
+      <rect style="fill: #e4f3ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="600" y="2000" width="380" height="40" rx="0" ry="0"/>
+      <rect style="fill: #e4f3ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="600" y="2120" width="380" height="40" rx="0" ry="0"/>
+      <rect style="fill: #e4f3ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="600" y="2060" width="380" height="40" rx="0" ry="0"/>
+      <text font-size="135.467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="790" y="2066.9">
+        <tspan x="790" y="2066.9">GHCB</tspan>
+      </text>
+    </g>
+    <g transform="matrix(0.3,0,0,0.3,664,324)">
+      <g>
+        <rect style="fill: #f7a4a4; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1720" y="120" width="460" height="420" rx="0" ry="0"/>
+        <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1950" y="333.881">
+          <tspan x="1950" y="333.881"></tspan>
+        </text>
+      </g>
+      <g>
+        <rect style="fill: #f7bcc3; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1740" y="140" width="420" height="380" rx="0" ry="0"/>
+        <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1950" y="333.881">
+          <tspan x="1950" y="333.881"></tspan>
+        </text>
+      </g>
+      <rect style="fill: #f7bcc3; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #f7bcc3" x="1760" y="160" width="380" height="40" rx="0" ry="0"/>
+      <rect style="fill: #f5e5e5; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1760" y="460" width="380" height="40" rx="0" ry="0"/>
+      <rect style="fill: #f5e5e5; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1760" y="400" width="380" height="40" rx="0" ry="0"/>
+      <rect style="fill: #f5e5e5; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1760" y="340" width="380" height="40" rx="0" ry="0"/>
+      <rect style="fill: #f5e5e5; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1760" y="280" width="380" height="40" rx="0" ry="0"/>
+      <rect style="fill: #f5e5e5; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1760" y="220" width="380" height="40" rx="0" ry="0"/>
+      <text font-size="135.467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1950" y="376.897">
+        <tspan x="1950" y="376.897">VMSA</tspan>
+      </text>
+      <g>
+        <rect style="fill: #e5e5e5; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1080" y="0" width="460" height="580" rx="0" ry="0"/>
+        <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1310" y="293.881">
+          <tspan x="1310" y="293.881"></tspan>
+        </text>
+      </g>
+      <g>
+        <g>
+          <rect style="fill: #cacaca; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1100" y="360" width="420" height="200" rx="0" ry="0"/>
+          <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1310" y="463.881">
+            <tspan x="1310" y="463.881"></tspan>
+          </text>
+        </g>
+        <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1380" y1="560" x2="1520" y2="420"/>
+        <g>
+          <rect style="fill: #cacaca; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1100" y="80" width="420" height="260" rx="0" ry="0"/>
+          <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1310" y="213.881">
+            <tspan x="1310" y="213.881"></tspan>
+          </text>
+          <rect style="fill: #e5e5e5; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1120" y="280" width="380" height="40" rx="0" ry="0"/>
+          <rect style="fill: #e5e5e5; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1120" y="220" width="380" height="40" rx="0" ry="0"/>
+          <rect style="fill: #e5e5e5; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1120" y="160" width="380" height="40" rx="0" ry="0"/>
+          <rect style="fill: #cacaca; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2.35099e-37; stroke: #cacaca" x="1120" y="100" width="380" height="40" rx="0" ry="0"/>
+          <rect style="fill: #cacaca; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1120" y="440" width="380" height="40" rx="0" ry="0"/>
+          <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1100" y1="400" x2="1140" y2="360"/>
+          <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1100" y1="440" x2="1180" y2="360"/>
+          <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1180" y1="560" x2="1380" y2="360"/>
+          <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1100" y1="520" x2="1260" y2="360"/>
+          <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1100" y1="560" x2="1300" y2="360"/>
+          <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1100" y1="480" x2="1220" y2="360"/>
+          <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1140" y1="560" x2="1340" y2="360"/>
+          <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1500" y1="560" x2="1520" y2="540"/>
+          <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1460" y1="560" x2="1520" y2="500"/>
+          <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1220" y1="560" x2="1420" y2="360"/>
+          <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1260" y1="560" x2="1460" y2="360"/>
+          <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1300" y1="560" x2="1500" y2="360"/>
+          <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1340" y1="560" x2="1520" y2="380"/>
+          <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1420" y1="560" x2="1520" y2="460"/>
+        </g>
+        <text font-size="135.467" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1310" y="336.897">
+          <tspan x="1310" y="336.897">VMCB</tspan>
+        </text>
+      </g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1540" y1="290" x2="1710.5" y2="327.888"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="1717.82,329.515 1706.97,332.227 1710.5,327.888 1709.14,322.465 "/>
+    </g>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.02; stroke: #000000" x="1340" y="520" width="20" height="300" rx="0" ry="0"/>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.02; stroke: #000000" x="1340" y="0" width="20" height="300" rx="0" ry="0"/>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.02; stroke: #000000" x="1340" y="300" width="20" height="220" rx="0" ry="0"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #000000" x1="1340" y1="820" x2="0" y2="820"/>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 20 8 4 8; stroke: #000000" d="M 561.552,638.996 A 751.238,751.238 0 0 0 621.362,229.64"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="620.327,222.212 626.736,231.373 621.424,229.631 616.844,232.836 "/>
+    </g>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 20 8 4 8; stroke: #000000" d="M 550.495,630.844 A 481.471,481.471 0 0 1 500,220"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="554.566,637.142 544.865,631.584 550.412,630.897 553.192,626.046 "/>
+    </g>
+    <text font-size="14.1111" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="860" y="424.885">
+      <tspan x="860" y="424.885">VMRUN</tspan>
+    </text>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 4; stroke: #000000" d="M 400,420 A 2115,2115 0 0 0 970.313,440.98"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="977.776,440.23 968.344,446.233 970.316,441.003 967.314,436.287 "/>
+    </g>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 4; stroke: #000000" d="M 906.318,392.82 A 44.1942,44.1942 0 0 1 980,420"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="901.287,398.171 902.953,387.116 905.603,392.038 911.131,392.871 "/>
+    </g>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 20 4 4 4 4 4; stroke: #000000" d="M 697.639,662.104 A 974.709,974.709 0 0 0 1070.45,661.914"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="690.282,660.647 701.082,657.754 697.63,662.151 699.076,667.551 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="1077.81,660.451 1069.02,667.363 1070.46,661.962 1067.01,657.569 "/>
+    </g>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 20 4 4 4 4 4; stroke: #000000" d="M 674.004,759.908 A 1137.24,1137.24 0 0 0 1070.93,683.548"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="666.504,759.971 676.49,754.943 674.004,759.95 676.518,764.943 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="1077.92,680.824 1070.47,689.156 1070.95,683.587 1066.78,679.859 "/>
+    </g>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 20 8 4 8; stroke: #000000" d="M 221.68,67.5972 A 391.666,391.666 0 0 1 471.24,95.756"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="478,99.0001 466.82,99.0008 471.292,95.6464 471.291,90.0563 "/>
+    </g>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 20 8 4 8; stroke: #000000" d="M 640,100 A 399.62,399.62 0 0 1 890.407,58.3478"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="897.801,59.5937 887.059,62.6932 890.426,58.2307 888.876,52.8597 "/>
+    </g>
+  </g>
+</svg>

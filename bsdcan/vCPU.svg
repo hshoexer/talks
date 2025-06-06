@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="24cm" height="28cm" viewBox="19 19 462 542" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs/>
+  <g id="Background">
+    <g>
+      <rect style="fill: #faffa0; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="20" y="20" width="460" height="540" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="250" y="293.881">
+        <tspan x="250" y="293.881"></tspan>
+      </text>
+      <rect style="fill: #faffa0; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2.35099e-37; stroke: #faffa0" x="60" y="40" width="380" height="40" rx="0" ry="0"/>
+      <text font-size="15.8044" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="250" y="65.4714">
+        <tspan x="250" y="65.4714">VCPU</tspan>
+      </text>
+      <g>
+        <rect style="fill: #cad162; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="40" y="100" width="420" height="440" rx="0" ry="0"/>
+        <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="250" y="323.881">
+          <tspan x="250" y="323.881"></tspan>
+        </text>
+      </g>
+      <rect style="fill: #faffa0; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="60" y="180" width="380" height="40" rx="0" ry="0"/>
+      <text font-size="15.8044" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="250" y="205.471">
+        <tspan x="250" y="205.471">VCPU GPRs</tspan>
+      </text>
+      <g>
+        <rect style="fill: #faffa0; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="60" y="480" width="380" height="40" rx="0" ry="0"/>
+        <text font-size="15.8044" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="250" y="505.471">
+          <tspan x="250" y="505.471">etc.</tspan>
+        </text>
+      </g>
+      <g>
+        <rect style="fill: #faffa0; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="60" y="120" width="380" height="40" rx="0" ry="0"/>
+        <text font-size="15.8044" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="250" y="145.471">
+          <tspan x="250" y="145.471">FPU</tspan>
+        </text>
+      </g>
+      <g>
+        <rect style="fill: #faffa0; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="60" y="420" width="380" height="40" rx="0" ry="0"/>
+        <text font-size="15.8044" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="250" y="445.471">
+          <tspan x="250" y="445.471">PVCLOCK</tspan>
+        </text>
+      </g>
+      <g>
+        <rect style="fill: #faffa0; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="60" y="360" width="380" height="40" rx="0" ry="0"/>
+        <text font-size="15.8044" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="250" y="385.471">
+          <tspan x="250" y="385.471">GHCB ptr</tspan>
+        </text>
+      </g>
+      <g>
+        <rect style="fill: #faffa0; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="60" y="300" width="380" height="40" rx="0" ry="0"/>
+        <text font-size="15.8044" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="250" y="325.471">
+          <tspan x="250" y="325.471">VMSA ptr</tspan>
+        </text>
+      </g>
+      <g>
+        <rect style="fill: #faffa0; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="60" y="240" width="380" height="40" rx="0" ry="0"/>
+        <text font-size="15.8044" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="250" y="265.471">
+          <tspan x="250" y="265.471">VMCB ptr</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
