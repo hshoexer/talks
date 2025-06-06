@@ -15,7 +15,7 @@
     <g>
       <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 120.362 40 L 201.813,40 C 213.058,40 222.175,48.9543 222.175,60 C 222.175,71.0457 213.058,80 201.813,80 L 120.362,80 C 109.117,80 100,71.0457 100,60 C 100,48.9543 109.117,40 120.362,40z"/>
       <text font-size="16.9333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="161.088" y="65.1346">
-        <tspan x="161.088" y="65.1346">pv_cpuid</tspan>
+        <tspan x="161.088" y="65.1346">pv_out</tspan>
       </text>
     </g>
     <g>
@@ -33,13 +33,13 @@
     <g>
       <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 466.963 760 L 650.063,760 C 675.344,760 695.838,768.954 695.838,780 C 695.838,791.046 675.344,800 650.063,800 L 466.963,800 C 441.682,800 421.188,791.046 421.188,780 C 421.188,768.954 441.682,760 466.963,760z"/>
       <text font-size="16.9333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="558.513" y="785.135">
-        <tspan x="558.513" y="785.135">vmm_handle_cpuid()</tspan>
+        <tspan x="558.513" y="785.135">vmm_handle_ioio()</tspan>
       </text>
     </g>
     <g>
       <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 932.325 40 L 1061.62,40 C 1079.48,40 1093.95,48.9543 1093.95,60 C 1093.95,71.0457 1079.48,80 1061.62,80 L 932.325,80 C 914.472,80 900,71.0457 900,60 C 900,48.9543 914.472,40 932.325,40z"/>
       <text font-size="16.9333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="996.975" y="65.1346">
-        <tspan x="996.975" y="65.1346">pv_cpuid cont.</tspan>
+        <tspan x="996.975" y="65.1346">pv_out cont.</tspan>
       </text>
     </g>
     <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="0" y1="520" x2="1340" y2="520"/>
@@ -75,7 +75,7 @@
       <tspan x="300" y="404.885">SVM_EXIT_VMGEXIT</tspan>
     </text>
     <text font-size="14.1111" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="580" y="724.885">
-      <tspan x="580" y="724.885">SVM_EXIT_CPUID</tspan>
+      <tspan x="580" y="724.885">SVM_EXIT_IOIO</tspan>
     </text>
     <g transform="matrix(0.3,0,0,0.3,916,202)">
       <rect style="fill: #faffa0; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="560" y="1260" width="460" height="540" rx="0" ry="0"/>
