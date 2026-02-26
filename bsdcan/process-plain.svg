@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="34cm" height="26cm" viewBox="179 139 662 502" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs/>
+  <g id="Background"/>
+  <g id="Background"/>
+  <g id="Hintergrund">
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" x="180" y="140" width="660" height="500" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="510" y="393.9">
+        <tspan x="510" y="393.9"></tspan>
+      </text>
+    </g>
+    <rect style="fill: #2e3436; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #ffffff" x="200" y="160" width="300" height="200" rx="0" ry="0"/>
+    <rect style="fill: #2e3436; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #ffffff" x="520" y="160" width="300" height="200" rx="0" ry="0"/>
+    <rect style="fill: #2e3436; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #ffffff" x="200" y="380" width="620" height="100" rx="0" ry="0"/>
+    <text font-size="16.9333" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="350" y="265.875">
+      <tspan x="350" y="265.875">Userland</tspan>
+    </text>
+    <text font-size="16.9333" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="670" y="265.875">
+      <tspan x="670" y="265.875">Userland</tspan>
+    </text>
+    <text font-size="16.9333" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="510" y="435.875">
+      <tspan x="510" y="435.875">Kernel</tspan>
+    </text>
+    <g>
+      <rect style="fill: #babdb6; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #ffffff" x="200" y="480" width="620" height="100" rx="0" ry="0"/>
+      <text font-size="16.9333" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="510" y="535.875">
+        <tspan x="510" y="535.875">Hardware</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #babdb6; fill-opacity: 1; stroke-opacity: 1; stroke-width: 5; stroke: #ffffff" x="220" y="500" width="120" height="60" rx="0" ry="0"/>
+      <text font-size="33.8667" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="280" y="541.725">
+        <tspan x="280" y="541.725">CPU</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
