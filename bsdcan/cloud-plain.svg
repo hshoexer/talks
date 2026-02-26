@@ -7,7 +7,7 @@
   <g id="Background"/>
   <g id="Hintergrund">
     <g>
-      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" x="180" y="140" width="660" height="500" rx="0" ry="0"/>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="180" y="140" width="660" height="500" rx="0" ry="0"/>
       <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="510" y="393.9">
         <tspan x="510" y="393.9"></tspan>
       </text>
@@ -42,5 +42,8 @@
         <tspan x="280" y="541.725">CPU</tspan>
       </text>
     </g>
+    <text font-size="16.9333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="510" y="615.875">
+      <tspan x="510" y="615.875">Cloud</tspan>
+    </text>
   </g>
 </svg>
